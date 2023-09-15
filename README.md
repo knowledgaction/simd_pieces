@@ -5,7 +5,7 @@ simd toy programs &amp; study notes
 
 
 
-## other links
+## Other links
 
-[sslotin/amh-code: Complete implementations from "Algorithms for Modern Hardware" (github.com)](https://github.com/sslotin/amh-code)
+* [sslotin/amh-code: Complete implementations from "Algorithms for Modern Hardware" ](https://github.com/sslotin/amh-code)
 
