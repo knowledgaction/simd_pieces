@@ -1,2 +1,2 @@
 # simd_pieces
-simd toy program &amp; study note
+simd toy programs &amp; study notes
