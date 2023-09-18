@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include <x86intrin.h>
+#include <immintrin.h>
 
 #define N (1<<12)
 
