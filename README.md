@@ -20,7 +20,14 @@ simd toy programs &amp; study notes
 | scalar       | 2.23 GFLOPS  |
 | simd         | 40.00 GFLOPS |
 
+## prefix sum
 
+| 具体实现方法    | 吞吐         |
+| --------------- | ------------ |
+| std、scalar     | 4.68 GFLOPS  |
+| simd            | 8.30 GFLOPS  |
+| simd+block      | 8.97 GFLOPS  |
+| simd+singlepass | 10.87 GFLOPS |
 
 
 
